@@ -1,0 +1,16 @@
+app.name=LabTrack
+app.enviorionment=development
+
+### MySQL Configuracion ###
+mysql.db.host=localhost
+mysql.db.port=3306
+mysql.db.name=your_database_name
+mysql.db.username=your_username
+mysql.db.password=your_password
+
+### PostgreSQL Configuracion ###
+postgresql.db.host=localhost
+postgresql.db.port=5432
+postgresql.db.name=your_database_name
+postgresql.db.username=your_username
+postgresql.db.password=your_password
