@@ -1,4 +1,4 @@
-package com.danieldevelop.labtrack;
+package com.labtrack.controller;
 
 import java.io.*;
 
