@@ -336,7 +336,7 @@ Al continuar el desarrollo:
 7. Proporcionar el código completo de los archivos nuevos o modificados.
 8. No avanzar a otro módulo hasta verificar que el módulo actual funciona correctamente.
 9. Priorizar soluciones sencillas y comprensibles, evitando incorporar frameworks adicionales innecesarios.
-10. Mantener compatibilidad con Java 17 y Apache Tomcat 9.
+10. Mantener compatibilidad con Java 17 y superior y Apache Tomcat 11.
 
 ### Primer requerimiento para continuar
 

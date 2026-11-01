@@ -7,15 +7,7 @@
     <title>LabTrack - Home</title>
 </head>
 <body>
-<%--<h1><%= "Hello World!" %>--%>
-<%--</h1>--%>
-<%--<br/>--%>
-<%--<a href="hello-servlet">Hello Servlet</a>--%>
 
-
-<h1><%= PropertiesUtil.get("app.name")%></h1>
-<p>Versión: <%=PropertiesUtil.get("app.version")%></p>
-<p>Entorno: <%=PropertiesUtil.get("app.environment")%></p>
 
 </body>
 </html>

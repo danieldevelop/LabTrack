@@ -1,6 +1,6 @@
 ### Application Properties ###
 app.name=LabTrack
-app.version=1.0.0
+app.version=0.1.0
 app.environment=development
 
 ### MySQL Configuracion ###
