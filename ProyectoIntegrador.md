@@ -38,13 +38,13 @@ LabTrack permitirá centralizar esta información y mantener un registro de cada
 | Java 17 o superior | Lenguaje de programación |
 | JSP | Interfaz de usuario |
 | Java Servlet | Controlador de solicitudes HTTP |
-| Apache Tomcat 9 | Servidor de aplicaciones |
+| Apache Tomcat 11 | Servidor de aplicaciones |
 | Maven | Gestión de dependencias y construcción |
 | PostgreSQL | Base de datos |
 | JDBC | Conexión y consultas SQL |
 | Git y GitHub | Control de versiones |
 
-**Compatibilidad:** se utilizará la API `javax.servlet`, correspondiente a Tomcat 9. No se utilizará `jakarta.servlet` mientras el proyecto esté basado en Tomcat 9.
+**Compatibilidad:** se utilizará la API `jakarta.servlet`, correspondiente a Tomcat 11. No se utilizará `javax.servlet` mientras el proyecto esté basado en Tomcat 11.
 
 ## 4. Funcionalidades del sistema
 
