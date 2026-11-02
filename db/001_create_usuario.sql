@@ -1,0 +1,7 @@
+CREATE TABLE usuario (
+     id SERIAL PRIMARY KEY,
+     username VARCHAR(50) UNIQUE NOT NULL,
+     nombre VARCHAR(100) NOT NULL,
+     password_hash VARCHAR(255) NOT NULL,
+     activo BOOLEAN NOT NULL DEFAULT TRUE
+);
