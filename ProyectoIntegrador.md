@@ -353,17 +353,4 @@ El objetivo es obtener una conexión funcional mediante JDBC antes de comenzar c
 - Maven.
 - PostgreSQL.
 - Git y GitHub.
-
-### Consideraciones importantes
-
-Este proyecto utiliza Apache Tomcat 11, por lo que debe utilizar la API Jakarta Servlet.
-
-**Importante:** utilizar `jakarta.servlet` en lugar de `javax.servlet`.
-
-Todas las dependencias de Maven deben ser compatibles con Java 25 y Tomcat 11.
-
-No utilizar ejemplos, dependencias ni configuraciones destinadas exclusivamente a Tomcat 9.
-
-Al desarrollar o modificar código, respetar estas versiones y mantener la compatibilidad con el entorno existente.
-
-No cambiar las versiones de Java, Tomcat ni las dependencias principales sin consultar previamente.
+- 
